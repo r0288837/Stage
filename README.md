@@ -1,56 +1,15 @@
-# Stageportfolio
+# Stage
 
-## Overzicht
+Deze repository bevat bewijsmateriaal, documentatie, reflecties en projectwerk van mijn stages binnen de opleiding Graduaat Programmeren aan Thomas More.
 
-Deze repository bevat bewijsmateriaal, documentatie, reflecties en projectwerk dat werd uitgevoerd tijdens mijn stage in het kader van de opleiding Graduaat Programmeren aan Thomas More.
-
-De repository dient als centrale plaats voor:
-- Projecten en opdrachten
-- Technische documentatie
-- Reflecties en leerervaringen
-- Screenshots en ondersteunend materiaal
-- Bewijsstukken gekoppeld aan de portfolio-doelstellingen
-
----
-
-## Stagecontext
-
-**Student:** Joeri Van De Weyer  
-**Opleiding:** Graduaat Programmeren  
-**Academiejaar:** 2025 - 2026
-
-**Stagebedrijf:** Krachtig Online
-
----
-
-## Structuur van de repository
-
-### 📁 KrachtigOnline
-Projecten, documentatie, screenshots en bewijsmateriaal gerealiseerd tijdens de stage.
+## Structuur
 
 ### 📁 Inspira
-Opdrachten, documentatie en ondersteunend materiaal.
+Documentatie, opdrachten, screenshots en bewijsmateriaal van mijn stage bij Inspira.
 
-### 📁 HAL41
-Ontwerpkeuzes, implementatie, SEO, testen en ondersteunende documentatie.
-
-### 📁 CMA
-Onderzoek, wireframes, websiteontwikkeling, SEO en projectdocumentatie.
-
-### 📁 KSAV
-API-integratie, WordPress-implementatie, testen en technische documentatie.
-
-### 📁 Reflecties
-Persoonlijke reflecties, evaluaties en leerervaringen gedurende de stageperiode.
-
-### 📁 Screenshots
-Visueel bewijsmateriaal van uitgevoerde werkzaamheden.
-
-### 📁 Documenten
-Verslagen, rapporten, presentaties en overige ondersteunende documenten.
-
----
+### 📁 KrachtigOnline
+Documentatie, projecten, screenshots en bewijsmateriaal van mijn stage bij Krachtig Online.
 
 ## Doel
 
-Deze repository werd opgesteld als ondersteuning van het portfolio en toont zowel de technische als professionele ontwikkeling die tijdens de stageperiode werd doorgemaakt.
+Deze repository dient als centrale verzamelplaats voor stagegerelateerd materiaal en ondersteunt mijn portfolio, evaluaties en verdere professionele ontwikkeling.
