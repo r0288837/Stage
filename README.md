@@ -1,37 +1,58 @@
-# Stage
+# Stage – Krachtig Online
 
-Deze repository bevat documentatie, projectwerk, screenshots, reflecties en bewijsmateriaal van de stages die ik doorheen mijn opleidingstraject heb uitgevoerd.
+Deze repository bevat documentatie, projectwerk, screenshots, reflecties en bewijsmateriaal verzameld tijdens mijn stage bij Krachtig Online in het kader van de opleiding Graduaat Programmeren aan Thomas More Hogeschool.
 
-## Opleidingstraject
-
-### Full Stack Web Developer
-**CVO De Verdieping** — 2021 - 2022
-
-**Stagebedrijf:** Inspira (Arendonk)
-
-Tijdens deze opleiding lag de focus op webontwikkeling, zowel front-end als back-end, met aandacht voor het volledige ontwikkelproces van analyse tot oplevering.
-
----
+## Opleiding
 
 ### Graduaat Programmeren
 **Thomas More Hogeschool** — 2024 - 2026
 
 **Stagebedrijf:** Krachtig Online (Geel)
 
-Tijdens deze opleiding werd verder gebouwd op eerdere ervaring met onder andere webontwikkeling, databanken, softwareontwikkeling, projectmatig werken en professionele vaardigheden binnen een bedrijfscontext.
+Tijdens deze stage maakte ik kennis met het ontwikkelen, onderhouden en optimaliseren van professionele websites binnen een digitale agency-omgeving. Hierbij werkte ik mee aan uiteenlopende klantprojecten waarbij zowel technische, functionele als communicatieve vaardigheden aan bod kwamen.
+
+De werkzaamheden omvatten onder andere:
+
+- Ontwikkelen en aanpassen van WordPress-websites met Elementor
+- Implementeren van nieuwe functionaliteiten en pagina-structuren
+- Uitwerken van SEO-gerelateerde optimalisaties
+- Opzetten en verbeteren van gebruikerservaringen en navigatiestructuren
+- Oplossen van technische problemen en uitvoeren van testen
+- Documenteren van uitgevoerde werkzaamheden
+- Samenwerken binnen een professionele bedrijfscontext met projectleiders, collega's en klanten
+
+---
+
+## Projecten
+
+### 📁 HAL41
+Website voor een tattoo- en beautystudio waarbij gewerkt werd aan structuur, intakeflows, formulieren, SEO, contentopbouw en gebruikerservaring.
+
+### 📁 CMA
+Corporate websiteproject met focus op structuur, design, contentpresentatie, SEO-optimalisatie en conversiegerichte opbouw.
+
+### 📁 KSAV Sint-Dimpna
+Implementatie van voetbalgerelateerde gegevens via externe API-koppelingen binnen een WordPress-omgeving.
+
+### 📁 Krachtig Online
+Interne opdrachten, optimalisaties, documentatie en ondersteunende werkzaamheden uitgevoerd binnen het stagebedrijf.
 
 ---
 
 ## Structuur
 
-### 📁 Inspira
-Documentatie, projecten en bewijsmateriaal afkomstig van de stage bij Inspira.
+Deze repository bevat onder meer:
 
-### 📁 KrachtigOnline
-Documentatie, projecten en bewijsmateriaal afkomstig van de stage bij Krachtig Online.
+- Projectdocumentatie
+- Screenshots
+- Reflecties
+- Onderzoekswerk
+- Analyse- en ontwerpdocumenten
+- Technische uitwerkingen
+- Bewijsmateriaal voor het portfolio
 
 ---
 
 ## Doel
 
-Deze repository fungeert als centraal archief van stagegerelateerde werkzaamheden en toont de evolutie van mijn technische en professionele ontwikkeling doorheen beide opleidingstrajecten.
+Deze repository fungeert als centraal archief van de werkzaamheden uitgevoerd tijdens de stageperiode bij Krachtig Online en toont zowel mijn technische ontwikkeling als mijn professionele groei binnen een realistische werkomgeving.
